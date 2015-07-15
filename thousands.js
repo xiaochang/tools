@@ -5,7 +5,6 @@
  */
 
 function　thousands(num){
-    a = num;
     num = num.toString();   //将输入的数字转换为字符串
 
     if(/^-?\d+\.?\d+$/.test(num)){  //判断输入内容是否为整数或小数
