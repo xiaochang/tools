@@ -1,1 +1,1 @@
-javascript使用正则表达式实现千分位分隔符
+javascript一些常用小函数
